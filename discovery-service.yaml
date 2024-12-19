@@ -5,3 +5,6 @@ eureka:
   server:
     enable-self-preservation: false
  
+
+server:
+  port: 8762
