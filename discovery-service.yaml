@@ -4,3 +4,6 @@ eureka:
     fetch-registry: false
   server:
     enable-self-preservation: false
+
+server:
+  port: 8900 
